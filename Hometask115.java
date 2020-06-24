@@ -1,4 +1,4 @@
-package unit1;
+package unit1;// соблюдайте требования по необходимому уровню вложенности пакетов
 
 public class Hometask115 {
     public static  void main(String[] args) { 
@@ -8,3 +8,5 @@ public class Hometask115 {
         		System.out.println("4-я степень числа Пи равна: " + pi4);
     }
 }
+// обращайте внимание на форматирование кода - плавает часто
+// других замечаний по коду юнита 1 нет
